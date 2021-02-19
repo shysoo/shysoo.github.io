@@ -1,0 +1,106 @@
+.topBanner{
+    height: 200px;
+    font-family: 'Short Stack', cursive;
+}
+.column{
+    float: left;
+    height: 100%;
+}
+.left, .right{
+    width: 25%;
+}
+.middle{
+    width: 50%;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 5px rgb(57, 57, 57);
+}
+.column img{
+    height: 100%;
+}
+.right img{
+    float: right;
+}
+.left img{
+    float: left;
+}
+.topics{
+    list-style-type:none;
+    text-align:center;
+}
+
+.topics li{
+    display: inline-block;
+    margin: 0 20px;
+    text-shadow: 2px 2px rgb(97, 97, 97);
+}
+a{
+    text-decoration: none;
+}
+#home{
+    color: #ffccff;
+    font-size: 50px;
+}
+#home a:visited{
+    color: #ffccff;
+}
+#paint{
+    color: #9ef9ff;
+    font-size: 50px;
+}
+#paint a:visited{
+    color: #9ef9ff;
+}
+#artsetsandgifts{
+    color: #ffccff;
+    font-size: 50px;
+}
+#artdesks{
+    color: #9ef9ff;
+    font-size: 50px;
+}
+#schoolsupplies{
+    color: #ffccff;
+    font-size: 50px;
+}
+.boxes{
+    height: 700px;
+    list-style-type:none;
+    text-align:center;
+    margin: 100px;
+}
+.boxes li{
+    display: inline-block;
+    margin: 0 20px;
+    text-shadow: 2px 2px rgb(97, 97, 97);
+    height: 100%;
+}
+.boxes li img{
+    height: 80%;
+}
+.bottom{
+    list-style-type:none;
+    text-align:center;
+}
+.bottom li{
+    display: inline-block;
+    margin: 0 200px;
+    text-shadow: 2px 2px rgb(97, 97, 97);
+}
+#giftcards{
+    color: #ffccff;
+    font-size: 50px;
+}
+#shopnow{
+    color: #9ef9ff;
+    font-size: 50px;
+}
+#coupons{
+    color: #e2c2ff;
+    font-size: 50px;
+}
+.paints{
+    height: 100px;
+    list-style-type:circle;
+    text-align:center;
+}
